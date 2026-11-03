@@ -1,0 +1,10 @@
+{
+  "lockfileVersion": 0,
+  "workspaces": {
+    "": {
+      "name": "apps-frameworkless-bun",
+      "version": "1.0.0"
+    }
+  },
+  "packages": {}
+}
